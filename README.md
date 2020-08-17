@@ -1,6 +1,6 @@
 # Animation Text of Dirgahayu Indonesiaku 🇮🇩
  
-# ![Dirgahayu Indonesia](https://user-images.githubusercontent.com/46509915/89891643-a3d4d800-dbff-11ea-8e4e-7992e2195fde.png)
+# ![Dirgahayu Indonesia](https://user-images.githubusercontent.com/46509915/90370838-3fe75f00-e098-11ea-8d9c-324bad501568.png)
 
 Nothing fancy here. I just create an animation text for celebrating 75th Indonesian Independence Day  
 
